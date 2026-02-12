@@ -1,6 +1,6 @@
 # Superstore Sales Analysis
 
-# Gestione e analisi di grandi quantità di dati forniti da uno store tramite l'utilizzo di Excel, SQL (postgreSQL), Visual Studio (Python) e Microsoft Power BI
+# Gestione e analisi di grandi quantità di dati forniti da uno store, tramite l'utilizzo di Excel, SQL (postgreSQL), Visual Studio (Python) e Microsoft Power BI
 
 Questo progetto analizza il dataset “Superstore Sales”, scaricato da Kaggle (https://www.kaggle.com/datasets/elijahconnectng/superstore-sales-dataset), con l’obiettivo di estrarre insight utili al supporto delle decisioni aziendali.
 
