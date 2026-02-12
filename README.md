@@ -4,7 +4,7 @@ Questo progetto analizza il dataset “Superstore Sales”, scaricato da Kaggle 
 
 L’analisi si concentra su performance di vendita, redditività, segmentazione clienti, andamento temporale, distribuzione geografica e impatto degli sconti sul profitto.
 
-Strumenti utilizzati:
+Strumenti:
 - Excel è stato utilizzato per una prima analisi esplorativa e per il controllo della qualità dei dati.
 - PostgreSQL (pgAdmin 4) è stato utilizzato per la creazione del database e per l’esecuzione delle query SQL.
 - Python (Visual Studio Code con supporto Copilot) è stato utilizzato per trasformazioni aggiuntive e analisi esplorative.
